@@ -1,4 +1,3 @@
-import torch
 import hashlib
 
 class ImgToMD5:
