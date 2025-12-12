@@ -1,0 +1,17 @@
+[project]
+name = "md5"
+description = "Covert string/image/file to md5 hash in ComfyUI"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/duldduld/ComfyUI_md5"
+#  Used by Comfy Registry https://registry.comfy.org
+Documentation = "https://github.com/duldduld/ComfyUI_md5/wiki"
+"Bug Tracker" = "https://github.com/duldduld/ComfyUI_md5/issues"
+
+[tool.comfy]
+PublisherId = "duldduld"
+DisplayName = "ComfyUI_md5"
+Icon = ""
+includes = []
